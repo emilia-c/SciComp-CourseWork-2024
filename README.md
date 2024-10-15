@@ -8,4 +8,4 @@ Welcome to the repository for the **Hands on Scientific Computing** course. This
 
 This repository is organized as follows:
 
-- **Jupyter Lab Exercises/**: Contains all Jupyter Lab exercises completed during the course.
+- **Jupyter Lab Exercises**: Contains all Jupyter Lab exercises completed during the course.
